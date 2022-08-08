@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://twitter.com/dilan_shah"><img width="454" alt="follow" src="https://user-images.githubusercontent.com/4616207/183354670-a76ada3f-b166-4467-bfac-92cbda036473.png"/></a>
+
 <!--
 **dilanshah/dilanshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
